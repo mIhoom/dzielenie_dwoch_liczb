@@ -9,4 +9,4 @@ except ValueError:
 except ZeroDivisionError:
     result = "Pamiętaj cholero, nie dziel przez zero!"
     print(result)
-
+print(input("Naciśnij dowolny klawisz, aby zkończyć"))
